@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rashail
+- 👋 Hi, I’m Rashail Chauhan
 - 👀 I’m interested in creating something jaw dropping.. 
 - 🌱 I’m currently learning python, let's just say i just learned how to walk in world of python
 - 💞️ I’m looking to collaborate on anything
